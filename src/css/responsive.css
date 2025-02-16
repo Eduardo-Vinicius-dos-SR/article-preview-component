@@ -1,0 +1,73 @@
+@media (max-width: 900px) {
+	.preview-component {
+		max-width: 400px;
+		flex-direction: column;
+	}
+
+	.preview-component .article-image {
+		width: 100%;
+		height: 40%;
+		border-radius: 12px 12px 0 0;
+	}
+
+	.preview-component .article {
+		width: 100%;
+		position: relative;
+		padding: 40px 40px 20px;
+	}
+
+	.article .header {
+		font-size: 1.7rem;
+	}
+
+	.article .description {
+		padding-bottom: 35px;
+	}
+
+	.creator {
+		position: relative;
+	}
+
+	.creator .share {
+		position: initial;
+	}
+
+	.share .share-link {
+		position: absolute;
+		right: 0;
+		top: 50%;
+	}
+
+	/* Active share */
+
+	.share .share-link.active {
+		background-color: var(--Desaturated-Dark-Blue);
+	}
+
+	.share-options {
+		position: absolute;
+		width: 400px;
+		height: 80px;
+		padding-right: 140px;
+		top: -10px;
+		left: -40px;
+		justify-content: space-evenly;
+		border-radius: 0 0 10px 10px;
+	}
+
+	.share-options::after {
+		content: none;
+	}
+
+	.share-options h2 {
+		font-weight: 400;
+		font-size: 1.8rem;
+		letter-spacing: 7px;
+	}
+
+	.share-options img {
+		width: 24px;
+		height: 24px;
+		transition: 0.3s ease-in-out;
+	}
+}
