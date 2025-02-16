@@ -69,3 +69,4 @@ The designs were created to the following widths:
 
 - Family: [Manrope](https://fonts.google.com/specimen/Manrope)
 - Weights: 500, 700
+# article-preview-component
