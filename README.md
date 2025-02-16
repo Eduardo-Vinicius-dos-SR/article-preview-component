@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-K47y-rP1iG)
+- Live Site URL: [Live site - GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/article-preview-component/)
 
 ## My process
 
@@ -40,8 +40,9 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Eduardo-Vinicius-dos-SR](https://www.frontendmentor.io/profile/Eduardo-Vinicius-dos-SR)
+
+
 
 # Front-end Style Guide
 
@@ -68,5 +69,4 @@ The designs were created to the following widths:
 ### Headings
 
 - Family: [Manrope](https://fonts.google.com/specimen/Manrope)
-- Weights: 500, 700
-# article-preview-component
+- Weights: 400, 500, 700
